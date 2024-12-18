@@ -2,7 +2,7 @@
 
 Ознакомиться с проектом можно по ссылке https://transliterationdockerbotaiogram315-tmx4m8p8za9qbxhfaq5mad.streamlit.app/
 
-Для запуска docker вам необходимо
+Для запуска через docker
 
 ```bash
 # создаём докер образ
